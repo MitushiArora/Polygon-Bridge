@@ -1,6 +1,6 @@
 # Polygon-Bridge
 
-This is the first project on Polygon-Advance,  I deployed NFTs on the Ethereum Goerli network. Then, I approved and finally deposited from Ethereum to Polygon using  the Polygon Bridge.
+This is the first project on Polygon-Advance,  I deployed NFTs on the Ethereum sepolia network. Then, I approved and finally deposited from Ethereum to Polygon using  the Polygon Bridge.
 
 ## Getting Started
 
